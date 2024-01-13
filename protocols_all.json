@@ -1,0 +1,143 @@
+[
+    {
+        "name": "ΛΟΓΙΚΗ",
+        "type": "value"
+    },
+    {
+        "name": "ΕΛΕΦΘΕΡΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΡΕΤΗ",
+        "type": "value"
+    },
+    {
+        "name": "ΔΙΚΑΙΩΣΙΝΗ",
+        "type": "value"
+    },
+    {
+        "name": "ΙΣΟΤΗΣ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΦΘΟΝΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΛΗΘΕΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΙΣΘΗΤΙΚΗ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΡΜΟΝΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΑΝΔΡΕΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΕΥΔΑΙΜΟΝΙΑ",
+        "type": "value"
+    },
+    {
+        "name": "ΓΝΩΘΙ Σ' ΕΥΑΤΟΝ",
+        "type": "value"
+    },
+    {
+        "name": "ΔΙΑΛΕΚΤΙΚΗ",
+        "type": "principle"
+    },
+    {
+        "name": "ΚΟΙΝΩΝΙΚΗ ΕΛΕΦΘΕΡΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΠΟΛΙΤΙΚΗ ΕΛΕΥΘΕΡΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΑΤΟΜΙΚΗ ΕΛΕΥΘΕΡΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΙΣΟΝΟΜΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΙΣΟΠΟΛΙΤΕΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΙΣΟΚΡΑΤΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΙΣΗΓΟΡΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΔΙΑΝΕΜΗΤΙΚΗ ΔΙΚΑΙΩΣΥΝΗ",
+        "type": "principle"
+    },
+    {
+        "name": "ΔΙΟΡΘΩΤΙΚΗ ΔΙΚΑΙΩΣΥΝΗ",
+        "type": "principle"
+    },
+    {
+        "name": "ΦΡΟΝΗΣΗ",
+        "type": "principle"
+    },
+    {
+        "name": "ΣΩΦΡΟΣΥΝΗ",
+        "type": "principle"
+    },
+    {
+        "name": "ΑΙΔΩΣ",
+        "type": "principle"
+    },
+    {
+        "name": "ΣΕΒΑΣΜΟΣ",
+        "type": "principle"
+    },
+    {
+        "name": "ΑΞΙΟΚΡΑΤΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΦΙΛΟΤΗΣ",
+        "type": "principle"
+    },
+    {
+        "name": "ΦΙΛΟΤΙΜΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "ΜΕΓΑΛΟΠΡΕΠΕΙΑ",
+        "type": "principle"
+    },
+    {
+        "name": "Ο ΝΟΜΟΣ ΤΗΣ ΠΛΗΡΟΥΣ ΕΠΑΝΟΡΘΩΣΗΣ",
+        "type": "stateLaw"
+    },
+    {
+        "name": "Ο ΝΟΜΟΣ ΤΗΣ ΠΡΟΣΟΜΟΙΩΣΗΣ",
+        "type": "stateLaw"
+    },
+    {
+        "name": "Ο ΝΟΜΟΣ ΤΗΣ ΔΗΜΟΣΙΟΤΗΤΑΣ",
+        "type": "stateLaw"
+    },
+    {
+        "name": "ΑΣΦΑΛΙΣΗ ΤΟΥ ΔΙΚΑΙΟΥ",
+        "type": "law"
+    },
+    {
+        "name": "ΝΟΜΟΣ ΤΟΥ ΑΤΟΜΟΥ",
+        "type": "law"
+    }
+
+]
