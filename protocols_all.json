@@ -1,142 +1,195 @@
 [
     {
         "name": "ΛΟΓΙΚΗ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΕΛΕΦΘΕΡΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΡΕΤΗ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΔΙΚΑΙΩΣΙΝΗ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΙΣΟΤΗΣ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΦΘΟΝΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΛΗΘΕΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΙΣΘΗΤΙΚΗ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΡΜΟΝΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΑΝΔΡΕΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΕΥΔΑΙΜΟΝΙΑ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΓΝΩΘΙ Σ' ΕΥΑΤΟΝ",
+        "category": "ΑΞΙΕΣ",
         "type": "value"
     },
     {
         "name": "ΔΙΑΛΕΚΤΙΚΗ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΚΟΙΝΩΝΙΚΗ ΕΛΕΦΘΕΡΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΠΟΛΙΤΙΚΗ ΕΛΕΥΘΕΡΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΑΤΟΜΙΚΗ ΕΛΕΥΘΕΡΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΙΣΟΝΟΜΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΙΣΟΠΟΛΙΤΕΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΙΣΟΚΡΑΤΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΙΣΗΓΟΡΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΔΙΑΝΕΜΗΤΙΚΗ ΔΙΚΑΙΩΣΥΝΗ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΔΙΟΡΘΩΤΙΚΗ ΔΙΚΑΙΩΣΥΝΗ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΑΞΙΑΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΦΡΟΝΗΣΗ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΣΩΦΡΟΣΥΝΗ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΑΙΔΩΣ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΣΕΒΑΣΜΟΣ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΑΞΙΟΚΡΑΤΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΦΙΛΟΤΗΣ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΦΙΛΟΤΙΜΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "ΜΕΓΑΛΟΠΡΕΠΕΙΑ",
+        "category": "ΑΡΧΕΣ",
+        "sub_category": "ΚΟΙΝΩΝΙΚΕΣ ΑΡΧΕΣ",
         "type": "principle"
     },
     {
         "name": "Ο ΝΟΜΟΣ ΤΗΣ ΠΛΗΡΟΥΣ ΕΠΑΝΟΡΘΩΣΗΣ",
+        "category": "ΠΟΛΙΤΕΙΑΚΟΙ ΝΟΜΟΙ",
         "type": "stateLaw"
     },
     {
         "name": "Ο ΝΟΜΟΣ ΤΗΣ ΠΡΟΣΟΜΟΙΩΣΗΣ",
+        "category": "ΠΟΛΙΤΕΙΑΚΟΙ ΝΟΜΟΙ",
         "type": "stateLaw"
     },
     {
         "name": "Ο ΝΟΜΟΣ ΤΗΣ ΔΗΜΟΣΙΟΤΗΤΑΣ",
+        "category": "ΠΟΛΙΤΕΙΑΚΟΙ ΝΟΜΟΙ",
         "type": "stateLaw"
     },
     {
         "name": "ΑΣΦΑΛΙΣΗ ΤΟΥ ΔΙΚΑΙΟΥ",
+        "category": "ΔΥΟ ΝΟΜΟΙ",
         "type": "law"
     },
     {
         "name": "ΝΟΜΟΣ ΤΟΥ ΑΤΟΜΟΥ",
+        "category": "ΔΥΟ ΝΟΜΟΙ",
         "type": "law"
     }
 
